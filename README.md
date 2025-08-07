@@ -80,7 +80,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string subscriptionId = "e5bd93f3-dcd9-4833-a589-82e16245997c";
+        string subscriptionId = "e5bd93f3-xxxxxxxxxxxxxxxxxxxxxxxxxx";
         string resourceGroupName = "myluiscocoRG";
         string location = "westeurope";
         string storageAccountName = "luisstor987"; // must be globally unique
