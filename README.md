@@ -1,0 +1,2 @@
+# Azure_SDK_Sample0_DefaultAzureCredential_Create_Storage_Account
+How to create Azure Storage Account and Grant Permissions
