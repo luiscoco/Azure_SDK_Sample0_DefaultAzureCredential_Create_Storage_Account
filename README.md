@@ -150,6 +150,9 @@ We review the StorageAccounts
 
 <img width="1721" height="491" alt="image" src="https://github.com/user-attachments/assets/dfd19c63-7e86-41bc-8292-ff467f70b2f2" />
 
+We review the blob
+
+<img width="1919" height="691" alt="image" src="https://github.com/user-attachments/assets/11cf3001-5f68-4257-bb12-75583b16726c" />
 
 
 
