@@ -140,8 +140,15 @@ dotnet run
 
 <img width="1296" height="777" alt="image" src="https://github.com/user-attachments/assets/541d338a-0588-4b96-9cac-7f645b85d260" />
 
+## 6. We confirm in Azure Portal
 
-## 4. 
+We review the ResourceGroups
+
+<img width="1652" height="492" alt="image" src="https://github.com/user-attachments/assets/23a07a7d-bfed-4f0a-a334-7a545ed3831c" />
+
+We review the StorageAccounts
+
+<img width="1721" height="491" alt="image" src="https://github.com/user-attachments/assets/dfd19c63-7e86-41bc-8292-ff467f70b2f2" />
 
 
 
